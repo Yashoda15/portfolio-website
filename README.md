@@ -16,6 +16,8 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
+- **Node.js & Express** (for JobTracker App)
+- **Python, Java, Arduino** (for other projects)
 
 ## 📂 Project Structure  
 - `index.html` → Main page  
@@ -23,6 +25,9 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 - `script.js` → JavaScript (dark mode toggle, interactivity)  
 
 ## 📚 Projects Highlighted
+
+- **JobTracker App** – Full-stack web application to track job applications and interview stages, with dynamic frontend and Node.js backend integration.  
+  🔗 [View on GitHub](https://github.com/Yashoda15/JobTracker-App)
 
 - **Credit Card Validator** – Python script to validate credit card numbers using the Luhn algorithm.  
   🔗 [View on GitHub](https://github.com/Yashoda15/credit-card-validator)
@@ -43,7 +48,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
   🔗 [View on GitHub](https://github.com/Yashoda15/LibraryManagementSystem)
 
 ## 🧠 About Me
-I'm a final-year B.Tech student in Electronics & Communication Engineering, passionate about software development, IoT, and embedded systems. Looking forward to applying my technical skills in challenging software development roles across industries.
+I'm a final-year B.Tech student in Electronics & Communication Engineering, passionate about software development, IoT, and embedded systems. Looking forward to applying my technical skills in challenging projects and opportunities.
 
 ## 📬 Contact
 - **Email:** yashoda@example.com  
