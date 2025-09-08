@@ -13,11 +13,11 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 - Contact section with GitHub and email
 
 ## 🛠️ Tech Stack
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
-- **Node.js & Express** (for JobTracker App)
-- **Python, Java, Arduino** (for other projects)
+- **HTML5** – Markup for structure and content  
+- **CSS3** – Styling and responsive design  
+- **JavaScript** – Frontend interactivity (Vanilla JS)  
+- **Node.js & Express** – Backend for JobTracker App  
+- **Python, Java, Arduino** – Other project implementations
 
 ## 📂 Project Structure  
 - `index.html` → Main page  
