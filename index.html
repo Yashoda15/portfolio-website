@@ -3,49 +3,95 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Yashoda Gatrereddy - Portfolio</title>
+  <title>Yashoda | Portfolio</title>
   <link rel="stylesheet" href="style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
   <header>
-    <h1>Hi, I'm Yashoda </h1>
-    <p>Aspiring Software Development Engineer</p>
+    <h1>Yashoda</h1>
+    <p>Electronics & Communication Engineer | Aspiring SDE</p>
     <nav>
       <a href="#about">About</a>
+      <a href="#skills">Skills</a>
       <a href="#projects">Projects</a>
       <a href="#contact">Contact</a>
+      <button id="toggle-theme">🌙</button>
     </nav>
   </header>
 
   <section id="about">
     <h2>About Me</h2>
-    <p>B.Tech ECE student passionate about software development, problem solving, and IoT.</p>
+    <p>
+      Final-year B.Tech student passionate about software development,
+      embedded systems, and IoT. Preparing for SDE roles at top tech
+      companies.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>C, Python, Java (Basic)</li>
+      <li>HTML, CSS, JavaScript</li>
+      <li>IoT, VLSI, PCB Design</li>
+      <li>Git, GitHub, AWS (Beginner)</li>
+    </ul>
   </section>
 
   <section id="projects">
     <h2>Projects</h2>
-    <ul>
-      <li>Food Adulteration Tracking using RFID</li>
-      <li>Library Management System (Java)</li>
-      <li>Reverse Parking Alert System (Embedded Systems)</li>
-      <li><a href="https://github.com/Yashoda15">More on GitHub</a></li>
-    </ul>
+
+    <div class="project">
+      <h3>Credit Card Validator</h3>
+      <p>Python script to validate credit card numbers using the Luhn algorithm.</p>
+      <a href="https://github.com/Yashoda15/credit-card-validator" target="_blank">View on GitHub</a>
+    </div>
+
+    <div class="project">
+      <h3>Cipher Project</h3>
+      <p>Implemented Vigenère Cipher in Python for text encryption and decryption.</p>
+      <a href="https://github.com/Yashoda15/cipher-project" target="_blank">View on GitHub</a>
+    </div>
+
+    <div class="project">
+      <h3>Password Generator</h3>
+      <p>Python-based tool that creates strong passwords, evaluates their strength, and stores them locally.</p>
+      <a href="https://github.com/Yashoda15/Password-Generator" target="_blank">View on GitHub</a>
+    </div>
+
+    <div class="project">
+      <h3>Budget App</h3>
+      <p>Python project to track expenses and visualize spending patterns with simple data analysis.</p>
+      <a href="https://github.com/Yashoda15/Budget-App-Track-Spending-and-Visualize-Expenses" target="_blank">View on GitHub</a>
+    </div>
+
+    <div class="project">
+      <h3>Arduino Reverse Parking Alert</h3>
+      <p>IoT project using an ultrasonic sensor and buzzer to alert drivers about nearby obstacles.</p>
+      <a href="https://github.com/Yashoda15/ArduinoReverseParkingAlert" target="_blank">View on GitHub</a>
+    </div>
+
+    <div class="project">
+      <h3>Library Management System</h3>
+      <p>Java console-based project to manage books and users in a library using OOP concepts.</p>
+      <a href="https://github.com/Yashoda15/LibraryManagementSystem" target="_blank">View on GitHub</a>
+    </div>
   </section>
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:yasodagattereddy@gmail.com">yasodagattereddy@gmail.com</a></p>
-    <p>GitHub: <a href="https://github.com/Yashoda15">github.com/Yashoda15</a></p>
+    <p>Email: yashoda@example.com</p>
+    <p>
+      GitHub:
+      <a href="https://github.com/Yashoda15" target="_blank">Yashoda15</a>
+    </p>
   </section>
 
   <footer>
-    <p>© <span id="year"></span> Yashoda Gatrereddy | Portfolio Website</p>
+    <p>© 2025 Yashoda. All rights reserved.</p>
   </footer>
 
   <script src="script.js"></script>
 </body>
 </html>
-
-
 
