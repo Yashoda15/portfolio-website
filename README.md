@@ -51,7 +51,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 I'm a final-year B.Tech student in Electronics & Communication Engineering, passionate about software development, IoT, and embedded systems. Looking forward to applying my technical skills in challenging projects and opportunities.
 
 ## 📬 Contact
-- **Email:** yashoda@example.com  
+- **Email:** yasodagattereddy@gmail.com@example.com  
 - **GitHub:** [Yashoda15](https://github.com/Yashoda15)
 
 ---
